@@ -12,7 +12,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quimisagi" alt="quimisagi" /></a> </p>
 
 ## GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=quimisagi&show_icons=true&locale=en" alt="quimisagi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quimisagi&show_icons=true&locale=en&layout=compact" alt="quimisagi" /></p>
 
 
