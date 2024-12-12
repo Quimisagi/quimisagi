@@ -1,11 +1,7 @@
-<h1 align="center">👋 Hi! I'm Quimisagi</h1>
+<h1 align="center">Welcome ( ⸝⸝•ᴗ•⸝⸝ )੭⁾⁾</h1>
 <h3 align="center">System Engineer | Deep Learning Researcher | Tech Enthusiast from Colombia 🇨🇴</h3>
 
-## About Me
-- 🌱 I’m currently improving my skills in PyTorch and deep learning
-- 🌟 I'm passionate about open source! So I would love to participate in more open source projects.
-- 🎯 Goals: I want to make contributions for interpolating 2D animations. 
-
+Currently focusing on deep learning assisted 2D animation interpolation!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quimisagi&label=Profile%20views&color=0e75b6&style=flat" alt="quimisagi" /> </p>
 
