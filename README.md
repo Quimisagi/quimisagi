@@ -1,5 +1,5 @@
 <h1 align="center">Welcome ( ⸝⸝•ᴗ•⸝⸝ )੭⁾⁾</h1>
-<h3 align="center">System Engineer | Deep Learning Researcher | Tech Enthusiast from Colombia 🇨🇴</h3>
+<h3 align="center">System Engineer | Deep Learning Researcher | Tech Enthusiast </h3>
 
 Currently focusing on deep learning assisted 2D animation interpolation!
 
