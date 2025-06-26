@@ -1,12 +1,20 @@
 <h1 align="center">Welcome ( ⸝⸝•ᴗ•⸝⸝ )੭⁾⁾</h1>
-<h3 align="center">System Engineer | Deep Learning Researcher | Tech Enthusiast </h3>
 
-Currently focusing on deep learning assisted 2D animation interpolation!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quimisagi&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="Quimisagi's GitHub Stats" />
+</p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Quimisagi&label=Profile%20Views&color=0&icon=6&pretty=false" />
-</a>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quimisagi" alt="quimisagi" /></a> </p>
+### About Me
 
+- 🎓 Currently a Master's student in Japan  
+- 🐱 Aspiring hacker with a passion for coding
+- 🌐 Open-source enthusiast — always eager to contribute and learn  
+- 🎨 Working on developing a deep learning model for 2D animation inbetweening  
+
+
+<p align="center">
+  <img src="https://media.tenor.com/E3MLgDP1qoQAAAAi/nyan-cat-transparent.gif" alt="Nyan Cat" width="200" />
+</p>
 
