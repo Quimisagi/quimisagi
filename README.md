@@ -8,10 +8,9 @@
 
 ### About Me
 
-- 🎓 Currently a Master's student in Japan  
-- 🐱 Aspiring hacker with a passion for coding
-- 🌐 Open-source enthusiast — always eager to contribute and learn  
-- 🎨 Working on developing a deep learning model for 2D animation inbetweening  
+- Computer Science Master's student in Japan  
+- Open-source enthusiast — always eager to contribute and learn  
+- Working on developing a deep learning model for 2D animation inbetweening  
 
 
 <p align="center">
