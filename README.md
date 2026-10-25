@@ -6,12 +6,6 @@
 
 ---
 
-### About Me
-
-- Computer Science Master's student in Japan  
-- Open-source enthusiast — always eager to contribute and learn  
-- Working on developing a deep learning model for 2D animation inbetweening  
-
 
 <p align="center">
   <img src="https://media.tenor.com/E3MLgDP1qoQAAAAi/nyan-cat-transparent.gif" alt="Nyan Cat" width="200" />
